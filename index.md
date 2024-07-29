@@ -25,12 +25,12 @@ I am a motivated computer science professional with a solid educational foundati
     - CSS
     - JavaScript
     - C#
-
+<br>
 - **Apps**
     -  VS Code
     -  PyCharm
     -  Dreamweaver
-
+<br>
 - **Services**
     -  Github  
 
