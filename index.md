@@ -18,12 +18,12 @@ I am a motivated computer science professional with a solid educational foundati
 
 
 ## Stack
-- Languages
-      - Python
-      - HTML5
-      - CSS
-      - Javascript
-      - C#
+- **Languages**
+    - Python
+    - HTML5
+    - CSS
+    - JavaScript
+    - C#
 
 - Apps
       - VS Code
