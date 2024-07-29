@@ -1,10 +1,10 @@
 # Site Specific Configuration
-name: LightSpeed
+name: Sidar Yesilyurt
 description: A simple Jekyll theme
 url: https://example.com
 author: tajacks
-timezone: America/Toronto
-timezone_short: ET
+timezone: Europe/London
+timezone_short: BST
 
 # Keywords
 keywords: ['seo', 'key', 'words']
