@@ -25,13 +25,13 @@ I am a motivated computer science professional with a solid educational foundati
     - JavaScript
     - C#
 
-## Apps
-- **VS Code**
-- **PyCharm**
-- **Dreamweaver**
+- **Apps**
+    -  VS Code
+    -  PyCharm
+    -  Dreamweaver
 
-## Services
-- **Github**    
+- **Services**
+    -  Github  
 
 ## Contact
 Email me, [yesilyurtsidar@gmail.com](yesilyurtsidar@gmail.com).
