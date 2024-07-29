@@ -36,3 +36,5 @@ I am a motivated computer science professional with a solid educational foundati
 
 ## Contact
 Email me, [yesilyurtsidar@gmail.com](yesilyurtsidar@gmail.com).
+[GitHub](https://github.com/sidar-yesilyurt)
+[LinkedIn](https://www.linkedin.com/in/sidaryesilyurt/)
