@@ -16,6 +16,7 @@ I am a motivated computer science professional with a solid educational foundati
     - [Basic Snake Game - Written in Python](https://github.com/sidar-yesilyurt/SnakeGame)
 - [Download CV](/assets/SidarYesilyurt.pdf)
 
+<br>
 
 ## Stack
 - **Languages**
