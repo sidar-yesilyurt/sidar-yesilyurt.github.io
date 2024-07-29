@@ -1,15 +1,11 @@
 ---
 layout: default
-title: LightSpeed Contact
+title: Sidar Yesilyurt
 ---
 
 ## About
-LightSpeed is a lightweight Jekyll theme designed to be privacy-friendly (~~no~~ _very little_ JavaScript), fast, and
-excellent at delivering content.
+I am a motivated computer science professional with a solid educational foundation and proven diligence. I am eager to build on these skills as I begin my university studies in computer science this September. I have excellent interpersonal skills and a passion for innovative solutions, complementing my interests in gaming, film analysis, swimming, and learning new programming languages.
 
-## About, Further
-This second section demonstrates spacing. CSS is kept to a minimum with minor styling
-for site colours and spacing. prism.js is used for code styling.    
 <br>
 Here's a new paragraph for you.  
 
