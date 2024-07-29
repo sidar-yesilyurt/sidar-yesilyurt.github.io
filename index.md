@@ -16,5 +16,22 @@ I am a motivated computer science professional with a solid educational foundati
     - [Basic Snake Game - Written in Python](https://github.com/sidar-yesilyurt/SnakeGame)
 - [Download CV](/assets/SidarYesilyurt.pdf)
 
+
+## Stack
+- Languages
+      - Python
+      - HTML5
+      - CSS
+      - Javascript
+      - C#
+
+- Apps
+      - VS Code
+      - PyCharm
+      - Dreamweaver
+
+- Services
+      - Github       
+
 ## Contact
 Email me, [yesilyurtsidar@gmail.com](yesilyurtsidar@gmail.com).
