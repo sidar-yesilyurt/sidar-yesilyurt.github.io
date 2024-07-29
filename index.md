@@ -20,4 +20,4 @@ Here's a new paragraph for you.
 - SEO Plugin
 
 ## Contact
-Email me, [tom@tomjack.ca](mailto:tom@tomjack.ca).
+Email me, [tom@tomjack.ca](yesilyurtsidar@gmail.com).
