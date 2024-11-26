@@ -7,11 +7,11 @@ I am a motivated computer science professional with a solid educational foundati
 
 <br>
 
-## Paths
-- Projects
-    - [2023 Uber Global Hackathon - written in JS, HTML and CSS](https://github.com/sidar-yesilyurt/405-Found)
-    - [2D Top Down Shooter - written in C#](https://github.com/sidar-yesilyurt/shooter-game)
-    - [Basic Snake Game - Written in Python](https://github.com/sidar-yesilyurt/SnakeGame)
+## Projects
+
+- [2023 Uber Global Hackathon - written in JS, HTML and CSS](https://github.com/sidar-yesilyurt/405-Found)
+- [2D Top Down Shooter - written in C#](https://github.com/sidar-yesilyurt/shooter-game)
+- [Basic Snake Game - Written in Python](https://github.com/sidar-yesilyurt/SnakeGame)
 - [Download CV](/assets/SidarYesilyurt_CV_.pdf)
 
 <br>
@@ -28,9 +28,7 @@ I am a motivated computer science professional with a solid educational foundati
     -  VS Code
     -  PyCharm
     -  Dreamweaver
-
-- **Services**
-    -  Github  
+    -  Adobe Illustrator
 
 ## Contact
 Email me at [yesilyurtsidar@gmail.com](mailto:yesilyurtsidar@gmail.com). <br>
