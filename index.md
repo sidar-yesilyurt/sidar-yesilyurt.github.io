@@ -31,6 +31,6 @@ I am a motivated computer science professional with a solid educational foundati
     -  Adobe Illustrator
 
 ## Contact
-Email me at [yesilyurtsidar@gmail.com](mailto:yesilyurtsidar@gmail.com). <br>
+Email me at [sidar-yesilyurt@pm.me](mailto:sidar-yesilyurt@proton.me). <br>
 Visit my [GitHub](https://github.com/sidar-yesilyurt) <br>
 Connect with me on [LinkedIn](https://www.linkedin.com/in/sidaryesilyurt/)
